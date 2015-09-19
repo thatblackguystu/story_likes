@@ -6,11 +6,11 @@ def display_story(user_title, user_rating)
 
   user_title = "Catcher in the Rye"
   user_rating = "9 out of 10"
-
+end
 #show the user a message asking them for a title
 
 puts "Insert Book Title"
-end
+
 
 book_value = gets
 
